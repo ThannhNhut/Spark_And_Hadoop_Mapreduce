@@ -43,3 +43,6 @@ Nền tảng MapReduce thực hiện các thủ tục Map() và Reduce() ở tr�
 - Reduce Function
 - Output Writer
 MapReduce tương đương với SELECT và GROUP BY của 1 cơ sở dữ liệu quan hệ cho 1 cơ sở dữ liệu rất lớn.
+### Tài liệu tham khảo
+- https://www.scnsoft.com/blog/spark-vs-hadoop-mapreduce#:~:text=In%20fact%2C%20the%20key%20difference,up%20to%20100%20times%20faster.
+- https://viblo.asia/p/hadoop-va-spark-big-data-framework-nao-tot-nhat-cho-ban-4dbZNqRqKYM
